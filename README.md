@@ -151,4 +151,4 @@ A complete walkthrough of the project is available here:
 
 Final-year graduate interested in **Data Analytics, MIS and Business Analytics**, with hands-on project experience in Excel-based data analysis, dashboarding and commercial performance analysis.
 
-**LinkedIn:** [Connect with me](YOUR-LINKEDIN-LINK-HERE)
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/koushik-samanta-128340428?utm_source=share_via&utm_content=profile&utm_medium=member_android)
