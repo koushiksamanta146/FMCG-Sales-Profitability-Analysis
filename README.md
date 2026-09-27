@@ -123,7 +123,7 @@ Based on the analysis, three areas were identified for management attention:
 
 The complete Excel workbook contains the **data, analysis, calculations and interactive dashboard** in one file.
 
-**[📥 Open / Download Excel Analysis Workbook](YOUR-EXCEL-LINK-HERE)**
+**[📥 Open / Download Excel Analysis Workbook](https://docs.google.com/spreadsheets/d/1ce8bcV4ZNy5cHhYkglFIprB_j_O5mKz0/edit?usp=drive_link&ouid=103810798785197041499&rtpof=true&sd=true)**
 
 ---
 
@@ -131,7 +131,7 @@ The complete Excel workbook contains the **data, analysis, calculations and inte
 
 The project is presented through an industry-style **Quarterly Business Review (QBR)** deck focused on commercial performance, profitability and management actions.
 
-**[📥 View QBR Presentation](YOUR-PPT-LINK-HERE)**
+**[📥 View QBR Presentation](https://docs.google.com/presentation/d/1TCYMprKfcXtpfcGSIb8sQzXP6mnmtk2o/edit?usp=drive_link&ouid=103810798785197041499&rtpof=true&sd=true)**
 
 ---
 
@@ -142,14 +142,6 @@ A complete walkthrough of the project is available here:
 **[▶️ Watch Project Walkthrough](YOUR-VIDEO-LINK-HERE)**
 
 ---
-
-## 📁 Repository Contents
-
-| File                                     | Description                                                     |
-| ---------------------------------------- | --------------------------------------------------------------- |
-| `FMCG_Sales_Profitability_Analysis.xlsx` | Complete Excel workbook containing data, analysis and dashboard |
-| `FMCG_QBR_Presentation.pptx`             | Industry-style QBR presentation                                 |
-| `README.md`                              | Project documentation                                           |
 
 ---
 
