@@ -131,7 +131,7 @@ The complete Excel workbook contains the **data, analysis, calculations and inte
 
 The project is presented through an industry-style **Quarterly Business Review (QBR)** deck focused on commercial performance, profitability and management actions.
 
-**[📥 View QBR Presentation](https://docs.google.com/presentation/d/1E9Wm1HjYa8R3egOsGD1PvNdAYoYLkBYu/edit?usp=drive_link&ouid=103810798785197041499&rtpof=true&sd=true)**
+**[📥 View QBR Presentation](https://docs.google.com/presentation/d/1b-Q7Bpz7wj3YJVR7zcv-FJT5his4Bpzg/edit?usp=drive_link&ouid=103810798785197041499&rtpof=true&sd=true)**
 
 ---
 
