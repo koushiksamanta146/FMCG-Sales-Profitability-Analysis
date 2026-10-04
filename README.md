@@ -56,14 +56,14 @@ The analysis covers:
 
 The project addresses eight core business questions:
 
-1. Which regions deliver the strongest combination of Net Sales, Units and Gross Profit?
-2. Which sales channels generate the highest revenue, and how does their Gross Margin compare?
-3. Which product categories contribute most to sales and profit?
-4. Which brands show a gap between their share of sales and share of gross profit?
-5. Which SKUs generate high sales but comparatively low Gross Margin %?
-6. How does Gross Margin vary across different discount bands?
-7. Where is Net Sales growth outpacing Gross Profit growth?
-8. Does promotional activity generate proportionally higher transaction volume?
+Q1. Which regions deliver the strongest combination of Net Sales, Units and Gross Profit, and how does Gross Margin % vary across them?
+Q2. Which sales channels generate the highest revenue, and do any channels show high sales but comparatively weak Gross Margin %?
+Q3. Which product categories contribute the most to sales and profit, and does the highest-selling category also carry the strongest margin?
+Q4. Which brands show a gap between their share of sales and their share of gross profit?
+Q5. Which SKUs generate high sales but comparatively low Gross Margin %, indicating profit-leakage candidates?
+Q6. How do Net Sales, Units and Gross Margin % vary across discount bands — are higher discount levels associated with lower margins without a proportional increase in volume?	
+Q7. Across Brands, Regions and Channels, where did Net Sales growth outpace Gross Profit growth from 2024 to 2025, indicating potential margin dilution?
+Q8. Does promotional discounting generate proportionally higher volume relative to its impact on Gross Margin?
 
 ---
 
@@ -123,7 +123,7 @@ Based on the analysis, three areas were identified for management attention:
 
 The complete Excel workbook contains the **data, analysis, calculations and interactive dashboard** in one file.
 
-**[📥 Open / Download Excel Analysis Workbook](https://docs.google.com/spreadsheets/d/1ce8bcV4ZNy5cHhYkglFIprB_j_O5mKz0/edit?usp=drive_link&ouid=103810798785197041499&rtpof=true&sd=true)**
+**[📥 Open / Download Excel Analysis Workbook](https://docs.google.com/spreadsheets/d/1AMWWgVkf4vM0uIZmxKG8iCJ6QUKxk6SL/edit?usp=drive_link&ouid=103810798785197041499&rtpof=true&sd=true)**
 
 ---
 
@@ -131,7 +131,7 @@ The complete Excel workbook contains the **data, analysis, calculations and inte
 
 The project is presented through an industry-style **Quarterly Business Review (QBR)** deck focused on commercial performance, profitability and management actions.
 
-**[📥 View QBR Presentation](https://docs.google.com/presentation/d/1b-Q7Bpz7wj3YJVR7zcv-FJT5his4Bpzg/edit?usp=drive_link&ouid=103810798785197041499&rtpof=true&sd=true)**
+**[📥 View QBR Presentation](https://docs.google.com/presentation/d/1KN6qh1XcX-hpX6dSk6A9QQ-VZsTmIDFC/edit?usp=drive_link&ouid=103810798785197041499&rtpof=true&sd=true)**
 
 ---
 
@@ -139,7 +139,7 @@ The project is presented through an industry-style **Quarterly Business Review (
 
 A complete walkthrough of the project is available here:
 
-**[▶️ Watch Project Walkthrough](https://drive.google.com/file/d/1Au0XZfBbKVNemkc0I9vxc2OPmfQlW7aA/view?usp=drive_link)**
+**[▶️ Watch Project Walkthrough](https://drive.google.com/file/d/1gCTRN39Pzc-0KUByE80D1AmJL5KXS6VD/view?usp=drive_link)**
 
 ---
 
