@@ -57,12 +57,20 @@ The analysis covers:
 The project addresses eight core business questions:
 
 Q1. Which regions deliver the strongest combination of Net Sales, Units and Gross Profit, and how does Gross Margin % vary across them?
+
 Q2. Which sales channels generate the highest revenue, and do any channels show high sales but comparatively weak Gross Margin %?
+
+
 Q3. Which product categories contribute the most to sales and profit, and does the highest-selling category also carry the strongest margin?
+
 Q4. Which brands show a gap between their share of sales and their share of gross profit?
+
 Q5. Which SKUs generate high sales but comparatively low Gross Margin %, indicating profit-leakage candidates?
+
 Q6. How do Net Sales, Units and Gross Margin % vary across discount bands — are higher discount levels associated with lower margins without a proportional increase in volume?	
+
 Q7. Across Brands, Regions and Channels, where did Net Sales growth outpace Gross Profit growth from 2024 to 2025, indicating potential margin dilution?
+
 Q8. Does promotional discounting generate proportionally higher volume relative to its impact on Gross Margin?
 
 ---
